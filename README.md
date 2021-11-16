@@ -15,7 +15,7 @@ React Native
 
 ## Özellikler
 
-- Twitter Clone UI
+- Twitter UI Clone
 
 ## Başlangıç
 
