@@ -30,7 +30,7 @@ git clone https://github.com/ibrahimaykutbas/TwitterClone.git
 Projeyi klonladıktan sonra ilgili dizine gidin.
 
 ```
-cd patika-react-native/twitterClone
+cd TwitterClone
 code .
 ```
 
